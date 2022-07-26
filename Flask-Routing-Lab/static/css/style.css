@@ -1,0 +1,22 @@
+h1 {
+	color: rosybrown;
+	text-align: center;
+}
+
+#desc_1{
+	text-align: center;
+	color: darkgray;
+}
+
+#desc_2{
+	text-align: center;
+	color: gray;
+}
+
+div{
+	color: rosybrown;
+	text-align: center;
+	line-height: 5.5;
+}
+
+.bolded{ font-weight: bold; }
