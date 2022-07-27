@@ -8,7 +8,7 @@ h1 {
 	color: darkgray;
 }
 
-#desc_2{
+.desc_2{
 	text-align: center;
 	color: gray;
 }
@@ -30,3 +30,15 @@ img{
 	color: rosybrown;
 	line-height: 5.5;
 }
+
+.centertext{
+	color: rosybrown;
+	text-align: center;
+	line-height: 5.5;
+
+}
+
+.desc_3{
+	text-align: center;
+}
+
