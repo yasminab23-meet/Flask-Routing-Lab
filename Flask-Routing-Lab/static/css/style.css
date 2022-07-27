@@ -13,10 +13,20 @@ h1 {
 	color: gray;
 }
 
-div{
+#home{
 	color: rosybrown;
 	text-align: center;
 	line-height: 5.5;
 }
 
 .bolded{ font-weight: bold; }
+
+img{
+	width: 400px;
+	height: 400px;
+}
+
+#buy{
+	color: rosybrown;
+	line-height: 5.5;
+}
